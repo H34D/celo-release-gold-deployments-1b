@@ -1,0 +1,50 @@
+[
+  {
+    "identifier": "0xa6654e679bc6c040544f8ec31adc0c1c4744855e",
+    "beneficiary": "0xFe38e77fdA4Bfb2Ba1085AF32Ea8adc7F84E5b6E",
+    "releaseStartTime": "MAINNET",
+    "releaseCliffTime": 0,
+    "numReleasePeriods": 1,
+    "releasePeriod": 3600,
+    "amountReleasedPerPeriod": "10004.000000000000000000",
+    "revocable": false,
+    "releaseOwner": "0xE4b4E5aefCF55D8c1dE712BE160F29abdDDD08C9",
+    "refundAddress": "0x0000000000000000000000000000000000000000",
+    "subjectToLiquidityProvision": false,
+    "initialDistributionRatio": 1000,
+    "canValidate": true,
+    "canVote": true
+  },
+  {
+    "identifier": "0x963e882692fd34ddb46e791657b71c361952e8b3",
+    "beneficiary": "0xBcEdEd13006d981822f07db160D703157dEB112d",
+    "releaseStartTime": "MAINNET",
+    "releaseCliffTime": 0,
+    "numReleasePeriods": 1,
+    "releasePeriod": 3600,
+    "amountReleasedPerPeriod": "30004.000000000000000000",
+    "revocable": false,
+    "releaseOwner": "0xE4b4E5aefCF55D8c1dE712BE160F29abdDDD08C9",
+    "refundAddress": "0x0000000000000000000000000000000000000000",
+    "subjectToLiquidityProvision": false,
+    "initialDistributionRatio": 1000,
+    "canValidate": true,
+    "canVote": true
+  },
+  {
+    "identifier": "0x66085940bf2104aeb87ac7aa46482017f090e2eb",
+    "beneficiary": "0x758085e6F7D6a0fe127D1a2c11F58E7224Ab0adA",
+    "releaseStartTime": "MAINNET",
+    "releaseCliffTime": 0,
+    "numReleasePeriods": 1,
+    "releasePeriod": 3600,
+    "amountReleasedPerPeriod": "10004.000000000000000000",
+    "revocable": false,
+    "releaseOwner": "0xE4b4E5aefCF55D8c1dE712BE160F29abdDDD08C9",
+    "refundAddress": "0x0000000000000000000000000000000000000000",
+    "subjectToLiquidityProvision": false,
+    "initialDistributionRatio": 1000,
+    "canValidate": true,
+    "canVote": true
+  }
+]
